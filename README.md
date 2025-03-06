@@ -1,4 +1,5 @@
 # Welcome Dosto....
+# non drm bot made by @nikhil.saini.khe (TELEGRAM)
 # Edit Vars.py
 # Change API_ID, API_HASH
 # DON'T PASTE BOT_TOKEN
